@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SL Engine="1200">
+	<E K="CanvasSize" V="5791;8688" />
+	<E K="ColorBalance" V="1;1;1" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1.03005802631378;1.03004801273346;1.03004801273346" />
+	<E K="Crop" V="2895.99047851562;4706.45703125;5791.98095703125;7962.97998046875" />
+	<E K="Exposure" V="-0.310864835977554" />
+	<E K="ImageDimensions" V="8688;5792" />
+	<E K="Name" V="Vogue_March_18_BeigeBG_Mann" />
+	<E K="UUID" V="61E24D5F-689D-4123-988B-B716BFEB7D7C" />
+	<E K="WhiteBalanceTemperature" V="5471.45703125" />
+	<E K="WhiteBalanceTint" V="8.77642440795898" />
+</SL>
